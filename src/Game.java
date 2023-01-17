@@ -13,7 +13,7 @@ public class Game {
             Room snailTunnels = new Room("You enter a dark tunnel coated with slime.....ew");
             Room  darkForest = new Room("You enter a spooky forest packed with dark oak trees.");
             Room goldenCastle = new Room("You walk up huge golden brick steps");
-            Room Dungeon = new Room("short description goes here");
+            Room Dungeon = new Room("short description gos here");
 
         }
 
