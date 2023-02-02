@@ -25,5 +25,10 @@ public class Player {
         }
         return returnString;
     }
+public  HashMap getInventory(){
+        return inventory;
+}
+
+
 
 }
